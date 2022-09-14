@@ -1,0 +1,9 @@
+matplotlib==3.4.0
+pandas
+numpy
+seaborn
+wordcloud
+plotly
+pycountry
+tqdm
+requests
